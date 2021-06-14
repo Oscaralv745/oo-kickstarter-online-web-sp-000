@@ -5,4 +5,4 @@ class Project
     @title = title
     @backed_projects = []
   end
-end 
+end
